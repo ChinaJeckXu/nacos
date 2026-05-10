@@ -74,8 +74,14 @@
         
         <!-- Provided -->
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-tomcat</artifactId>
+            <groupId>com.tongweb.springboot</groupId>
+            <artifactId>tongweb-spring-boot-starter-2.x</artifactId>
+            <version>7.0.E.8_P1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.tongweb.springboot</groupId>
+            <artifactId>tongweb-spring-boot-websocket-2.x</artifactId>
+            <version>7.0.E.8_P1</version>
         </dependency>
         
         <dependency>
